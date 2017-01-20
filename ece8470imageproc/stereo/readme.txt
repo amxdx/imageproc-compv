@@ -1,0 +1,1 @@
+Implementation of  efficient sliding window (block-based) matching of two rectified stereo images.    

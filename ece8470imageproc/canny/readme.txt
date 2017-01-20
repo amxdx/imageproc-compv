@@ -1,0 +1,1 @@
+Implementing the Canny edge detector and use it to find an object by matching the edges of an image with the edges of the object’s template via the chamfer distance

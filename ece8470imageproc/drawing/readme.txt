@@ -1,0 +1,1 @@
+This program implements drawing or changing pixel values on a given image.

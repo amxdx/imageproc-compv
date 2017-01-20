@@ -1,0 +1,1 @@
+Lucas-Kanade algorithm to detect and track features through a video sequence of images.

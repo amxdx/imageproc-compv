@@ -1,0 +1,1 @@
+application of a number of basic pixel-based processing algorithms such as thresholding, floodfill, connected components, and morphological operations.  
