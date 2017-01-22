@@ -1,0 +1,1 @@
+A program to recognise a character with a given template. 

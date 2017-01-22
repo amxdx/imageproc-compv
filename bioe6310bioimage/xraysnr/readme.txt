@@ -1,0 +1,1 @@
+A program to calculate the SNR or patient measurements in xray

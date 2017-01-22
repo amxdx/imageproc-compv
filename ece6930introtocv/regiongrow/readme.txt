@@ -1,0 +1,1 @@
+A program to use region growing in a GUI based image system in win32. Most GUI code was given in prior. 

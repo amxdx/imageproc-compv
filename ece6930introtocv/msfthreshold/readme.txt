@@ -1,0 +1,1 @@
+optical character recognition using a template and mean squared matched filtering. 
